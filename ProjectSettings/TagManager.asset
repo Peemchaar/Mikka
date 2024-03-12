@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 387795959
+    locked: 0
+  - name: Textos
+    uniqueID: 4094197639
+    locked: 0
+  - name: Elementos Graf
+    uniqueID: 3660028041
+    locked: 0
+  - name: Suelo
+    uniqueID: 679839827
+    locked: 0
+  - name: Personajes
+    uniqueID: 3470507729
+    locked: 0
